@@ -97,6 +97,7 @@ body {
   .grid-container {
     grid-template-columns: 1fr;
     width: 85%;
+    margin: 3em 0;
   }
   .grid-container .grid__item--title {
     font-size: 1.25rem;
